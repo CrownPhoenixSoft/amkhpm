@@ -93,6 +93,9 @@ h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
+.ml-10 {
+  margin-left: 100px;
+}
 
 p {
   margin-top: 0;
@@ -10049,8 +10052,8 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #359999;
-  background: #ffffff;
+  color: #ffffff;
+  background: #359999;
   font-size: 30px;
 }
 
@@ -10080,6 +10083,7 @@ h6 {
 }
 
 .logo {
-  width: 350px;
-  height: 100px;
+  /* width: 20rem;
+  height: 10rem; */
+  max-width: 300px;
 }
